@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"3162e07ab3c928e78aad2c680a70ae7c","name":"Retail sector failed test cases Suite","statistic":{"failed":16,"broken":87,"skipped":106,"passed":81,"unknown":0,"total":290}}]}
+{"total":2,"items":[{"uid":"3162e07ab3c928e78aad2c680a70ae7c","name":"Retail sector failed test cases Suite","statistic":{"failed":0,"broken":3,"skipped":37,"passed":0,"unknown":0,"total":40}},{"uid":"2c8837b97293ea01a164a5cd7048ad56","name":"Default suite","statistic":{"failed":0,"broken":2,"skipped":0,"passed":0,"unknown":0,"total":2}}]}
